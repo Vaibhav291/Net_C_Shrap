@@ -1,0 +1,15 @@
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\bin\Debug\net6.0\C_Sharp_Basics.exe
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\bin\Debug\net6.0\C_Sharp_Basics.deps.json
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\bin\Debug\net6.0\C_Sharp_Basics.runtimeconfig.json
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\bin\Debug\net6.0\C_Sharp_Basics.dll
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\bin\Debug\net6.0\C_Sharp_Basics.pdb
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.csproj.AssemblyReference.cache
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.AssemblyInfoInputs.cache
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.AssemblyInfo.cs
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.csproj.CoreCompileInputs.cache
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.dll
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\refint\C_Sharp_Basics.dll
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.pdb
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\C_Sharp_Basics.genruntimeconfig.cache
+F:\Net core\Net_C_Shrap\C_Sharp_Basics\obj\Debug\net6.0\ref\C_Sharp_Basics.dll
